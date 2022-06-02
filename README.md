@@ -1,1 +1,1 @@
-"# statistics" 
+Python practice code in statistics
