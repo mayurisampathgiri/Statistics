@@ -1,1 +1,1 @@
-This repository consists of Python code for statistical analysis.
+Github repo for STAT 354 Spring 2022 GMU.
